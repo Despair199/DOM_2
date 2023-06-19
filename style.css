@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+}
+
+.total {
+    font-size: 30px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-around;
+}
+
+i {
+    cursor: pointer;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container-fluid {background-color: lavenderblush;
+}
+
+body {background-color: lavenderblush;}
